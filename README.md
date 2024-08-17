@@ -22,7 +22,7 @@ This is a simple React application that displays a list of products fetched from
     npm install
     ```
 
-4. Start the development server:
+3. Start the development server:
     ```bash
     npm start
     ```
@@ -54,6 +54,4 @@ This is a simple React application that displays a list of products fetched from
 - **Styling**: Improve the design and responsiveness of the application.
 - **Error Handling**: Enhance error handling during API requests.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
